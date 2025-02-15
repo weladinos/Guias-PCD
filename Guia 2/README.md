@@ -1,4 +1,4 @@
-# Análisis Exploratorio en Telecomunicaciones
+# Análisis Exploratorio
 
 Descripción
 
